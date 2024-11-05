@@ -1,6 +1,6 @@
 #ignoring specific file
 .env
 #ignoring specific directories
-/Activity27
+/Activity27.xcodeproj
 #ignoring specific file type
 *.xcodeproj
